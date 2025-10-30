@@ -1,0 +1,16 @@
+{
+  "name": "assignment_express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node express-js-server-side-framework-JoshuaAlive/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "uuid": "^13.0.0"
+  }
+}
